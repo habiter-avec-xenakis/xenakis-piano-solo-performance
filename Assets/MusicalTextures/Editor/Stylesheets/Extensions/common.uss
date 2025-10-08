@@ -1,0 +1,6 @@
+TrackSequencerMarker
+{
+   width:18px;
+   height:18px;
+   background-image: resource("Assets/MusicalTextures/Editor/Icons/ts_marker.png");
+}

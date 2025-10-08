@@ -1,0 +1,418 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f398d9c0c67f40343af591bce912d142, type: 3}
+  m_Name: Evryali_MusicalTexturesTracks
+  m_EditorClassIdentifier: 
+  musicalTexturesData: {fileID: 11400000, guid: 61a4ee58504eb594eb7a1883af5b0e4f,
+    type: 2}
+  mtTracks:
+  - isSilent: 0
+    silenceDuration: 1
+    comment: b. 1-4
+    sketch: {fileID: 2800000, guid: 44d80662939163d46ba813861d817431, type: 3}
+    trackSections:
+    - trackSectionType: 0
+      mtMainIndex: 0
+      mtSecondaryIndex: 7
+  - isSilent: 0
+    silenceDuration: 1
+    comment: b. 5-16
+    sketch: {fileID: 2800000, guid: 9a4a49eb9b409da4598d649148f4c495, type: 3}
+    trackSections:
+    - trackSectionType: 0
+      mtMainIndex: 1
+      mtSecondaryIndex: 6
+  - isSilent: 0
+    silenceDuration: 1
+    comment: b. 17-18, b. 19-25
+    sketch: {fileID: 2800000, guid: 5fbb79f433cbe714f97aee42f8a94d02, type: 3}
+    trackSections:
+    - trackSectionType: 0
+      mtMainIndex: 2
+      mtSecondaryIndex: 0
+    - trackSectionType: 0
+      mtMainIndex: 0
+      mtSecondaryIndex: 0
+    - trackSectionType: 0
+      mtMainIndex: 1
+      mtSecondaryIndex: 0
+  - isSilent: 0
+    silenceDuration: 1
+    comment: b.26, b.27
+    sketch: {fileID: 2800000, guid: 4c22a73f0cc1cd4458395ca3a7ae3b81, type: 3}
+    trackSections:
+    - trackSectionType: 0
+      mtMainIndex: 0
+      mtSecondaryIndex: 0
+    - trackSectionType: 0
+      mtMainIndex: 2
+      mtSecondaryIndex: 0
+  - isSilent: 0
+    silenceDuration: 1
+    comment: b. 28-29, b. 29-31
+    sketch: {fileID: 2800000, guid: f88e84f31252d9c46900233803a9dda7, type: 3}
+    trackSections:
+    - trackSectionType: 0
+      mtMainIndex: 2
+      mtSecondaryIndex: 0
+    - trackSectionType: 0
+      mtMainIndex: 1
+      mtSecondaryIndex: 0
+  - isSilent: 0
+    silenceDuration: 1
+    comment: b. 31-33, b. 33-34
+    sketch: {fileID: 2800000, guid: 12da9b05f90d1314fbb2dd6a7050b9d9, type: 3}
+    trackSections:
+    - trackSectionType: 0
+      mtMainIndex: 1
+      mtSecondaryIndex: 0
+    - trackSectionType: 0
+      mtMainIndex: 2
+      mtSecondaryIndex: 0
+    - trackSectionType: 0
+      mtMainIndex: 1
+      mtSecondaryIndex: 0
+  - isSilent: 0
+    silenceDuration: 1
+    comment: b. 36-39
+    sketch: {fileID: 2800000, guid: 86dc632d582640e4491dcfd9849e21b3, type: 3}
+    trackSections:
+    - trackSectionType: 0
+      mtMainIndex: 3
+      mtSecondaryIndex: 0
+  - isSilent: 0
+    silenceDuration: 1
+    comment: b. 40-46
+    sketch: {fileID: 2800000, guid: 1a0cdfb29c858f9498ed2ea65ac13fc2, type: 3}
+    trackSections:
+    - trackSectionType: 0
+      mtMainIndex: 0
+      mtSecondaryIndex: 0
+  - isSilent: 0
+    silenceDuration: 1
+    comment: b. 46-54
+    sketch: {fileID: 2800000, guid: 9741b081ee7d3414e8651bcb90582529, type: 3}
+    trackSections:
+    - trackSectionType: 0
+      mtMainIndex: 4
+      mtSecondaryIndex: 0
+  - isSilent: 0
+    silenceDuration: 1
+    comment: b. 54-60
+    sketch: {fileID: 2800000, guid: 1b49ce96de227f24bb1413aec9e41f72, type: 3}
+    trackSections:
+    - trackSectionType: 0
+      mtMainIndex: 4
+      mtSecondaryIndex: 0
+  - isSilent: 0
+    silenceDuration: 1
+    comment: b. 61-64
+    sketch: {fileID: 2800000, guid: 72ef509f4ca7562488594e55b9883625, type: 3}
+    trackSections:
+    - trackSectionType: 0
+      mtMainIndex: 5
+      mtSecondaryIndex: 0
+  - isSilent: 1
+    silenceDuration: 12
+    comment: Silence 12"
+    sketch: {fileID: 0}
+    trackSections:
+    - trackSectionType: 0
+      mtMainIndex: 0
+      mtSecondaryIndex: 0
+  - isSilent: 0
+    silenceDuration: 1
+    comment: b. 65-67
+    sketch: {fileID: 2800000, guid: bf976437c104e644f9b61daa851d9c1e, type: 3}
+    trackSections:
+    - trackSectionType: 0
+      mtMainIndex: 4
+      mtSecondaryIndex: 0
+  - isSilent: 0
+    silenceDuration: 1
+    comment: b. 68-73
+    sketch: {fileID: 2800000, guid: e03a322786f4b0944be2fe4a69aa7b49, type: 3}
+    trackSections:
+    - trackSectionType: 0
+      mtMainIndex: 5
+      mtSecondaryIndex: 0
+  - isSilent: 0
+    silenceDuration: 1
+    comment: b. 74-81
+    sketch: {fileID: 2800000, guid: a199be28ec3db3f4aafecaba264c4dc6, type: 3}
+    trackSections:
+    - trackSectionType: 0
+      mtMainIndex: 6
+      mtSecondaryIndex: 0
+    - trackSectionType: 0
+      mtMainIndex: 7
+      mtSecondaryIndex: 0
+  - isSilent: 0
+    silenceDuration: 1
+    comment: b. 82-86
+    sketch: {fileID: 2800000, guid: 022442a502ca4d5428f4cda968b9ae67, type: 3}
+    trackSections:
+    - trackSectionType: 0
+      mtMainIndex: 7
+      mtSecondaryIndex: 0
+  - isSilent: 0
+    silenceDuration: 1
+    comment: b. 86-91
+    sketch: {fileID: 2800000, guid: ec470fddd4fc09b488ce9c51c7f69de5, type: 3}
+    trackSections:
+    - trackSectionType: 0
+      mtMainIndex: 5
+      mtSecondaryIndex: 0
+  - isSilent: 0
+    silenceDuration: 1
+    comment: b. 91-93
+    sketch: {fileID: 2800000, guid: 51e9078018020e7418c3c7cbdf229cfd, type: 3}
+    trackSections:
+    - trackSectionType: 0
+      mtMainIndex: 6
+      mtSecondaryIndex: 0
+  - isSilent: 0
+    silenceDuration: 1
+    comment: b. 94-98
+    sketch: {fileID: 2800000, guid: 2ef18fd2876ad6c4388c7ce0e5332d69, type: 3}
+    trackSections:
+    - trackSectionType: 0
+      mtMainIndex: 5
+      mtSecondaryIndex: 0
+    - trackSectionType: 0
+      mtMainIndex: 6
+      mtSecondaryIndex: 0
+  - isSilent: 0
+    silenceDuration: 1
+    comment: b. 99-105
+    sketch: {fileID: 2800000, guid: c48dc5193d1ac37438c640a6f2616f5b, type: 3}
+    trackSections:
+    - trackSectionType: 0
+      mtMainIndex: 5
+      mtSecondaryIndex: 0
+    - trackSectionType: 0
+      mtMainIndex: 6
+      mtSecondaryIndex: 0
+  - isSilent: 0
+    silenceDuration: 1
+    comment: b. 106-107
+    sketch: {fileID: 2800000, guid: 29a591e04f638b14abe084bc3bfb8cd8, type: 3}
+    trackSections:
+    - trackSectionType: 0
+      mtMainIndex: 8
+      mtSecondaryIndex: 0
+  - isSilent: 0
+    silenceDuration: 1
+    comment: b. 108-112
+    sketch: {fileID: 2800000, guid: 45144fad90fe2504b963ec22482f8e0c, type: 3}
+    trackSections:
+    - trackSectionType: 0
+      mtMainIndex: 8
+      mtSecondaryIndex: 0
+  - isSilent: 0
+    silenceDuration: 1
+    comment: b. 113-115
+    sketch: {fileID: 2800000, guid: f785706dac62e5b46845799c643beee5, type: 3}
+    trackSections:
+    - trackSectionType: 0
+      mtMainIndex: 9
+      mtSecondaryIndex: 0
+  - isSilent: 0
+    silenceDuration: 1
+    comment: b. 116-119
+    sketch: {fileID: 2800000, guid: b1ec1034a1af66a4494a71675acd3a1a, type: 3}
+    trackSections:
+    - trackSectionType: 0
+      mtMainIndex: 9
+      mtSecondaryIndex: 0
+  - isSilent: 0
+    silenceDuration: 1
+    comment: b. 120-123
+    sketch: {fileID: 2800000, guid: 204eb7afc7c7e82459929df962ded964, type: 3}
+    trackSections:
+    - trackSectionType: 0
+      mtMainIndex: 7
+      mtSecondaryIndex: 0
+    - trackSectionType: 0
+      mtMainIndex: 9
+      mtSecondaryIndex: 0
+    - trackSectionType: 0
+      mtMainIndex: 8
+      mtSecondaryIndex: 0
+    - trackSectionType: 0
+      mtMainIndex: 9
+      mtSecondaryIndex: 0
+    - trackSectionType: 0
+      mtMainIndex: 8
+      mtSecondaryIndex: 0
+    - trackSectionType: 1
+      mtMainIndex: 8
+      mtSecondaryIndex: 7
+  - isSilent: 0
+    silenceDuration: 1
+    comment: b. 123-124
+    sketch: {fileID: 2800000, guid: 148614ffa7b4c914cbff75fba26b9b89, type: 3}
+    trackSections:
+    - trackSectionType: 1
+      mtMainIndex: 9
+      mtSecondaryIndex: 7
+    - trackSectionType: 0
+      mtMainIndex: 9
+      mtSecondaryIndex: 0
+    - trackSectionType: 1
+      mtMainIndex: 8
+      mtSecondaryIndex: 7
+  - isSilent: 0
+    silenceDuration: 1
+    comment: b. 125-133
+    sketch: {fileID: 2800000, guid: 61bb20258b9607649979821f42d6d2d5, type: 3}
+    trackSections:
+    - trackSectionType: 1
+      mtMainIndex: 9
+      mtSecondaryIndex: 7
+    - trackSectionType: 0
+      mtMainIndex: 9
+      mtSecondaryIndex: 0
+    - trackSectionType: 0
+      mtMainIndex: 8
+      mtSecondaryIndex: 0
+    - trackSectionType: 1
+      mtMainIndex: 9
+      mtSecondaryIndex: 7
+    - trackSectionType: 1
+      mtMainIndex: 8
+      mtSecondaryIndex: 7
+    - trackSectionType: 1
+      mtMainIndex: 9
+      mtSecondaryIndex: 7
+    - trackSectionType: 0
+      mtMainIndex: 9
+      mtSecondaryIndex: 0
+  - isSilent: 0
+    silenceDuration: 1
+    comment: b. 134-136
+    sketch: {fileID: 2800000, guid: 3b503103388d8fa45ad953b62bfb2466, type: 3}
+    trackSections:
+    - trackSectionType: 0
+      mtMainIndex: 10
+      mtSecondaryIndex: 0
+  - isSilent: 0
+    silenceDuration: 1
+    comment: b. 137-143
+    sketch: {fileID: 2800000, guid: 3b503103388d8fa45ad953b62bfb2466, type: 3}
+    trackSections:
+    - trackSectionType: 0
+      mtMainIndex: 10
+      mtSecondaryIndex: 0
+  - isSilent: 0
+    silenceDuration: 1
+    comment: b. 145-158
+    sketch: {fileID: 2800000, guid: 41f9c9fae72419d4b82b28988b116b83, type: 3}
+    trackSections:
+    - trackSectionType: 1
+      mtMainIndex: 11
+      mtSecondaryIndex: 6
+  - isSilent: 0
+    silenceDuration: 1
+    comment: b. 159-164
+    sketch: {fileID: 2800000, guid: 41f9c9fae72419d4b82b28988b116b83, type: 3}
+    trackSections:
+    - trackSectionType: 1
+      mtMainIndex: 11
+      mtSecondaryIndex: 6
+  - isSilent: 0
+    silenceDuration: 1
+    comment: b. 165-176
+    sketch: {fileID: 2800000, guid: 09a70804d5ca2684da5ffceb664faddd, type: 3}
+    trackSections:
+    - trackSectionType: 1
+      mtMainIndex: 11
+      mtSecondaryIndex: 6
+    - trackSectionType: 0
+      mtMainIndex: 9
+      mtSecondaryIndex: 0
+    - trackSectionType: 0
+      mtMainIndex: 11
+      mtSecondaryIndex: 0
+  - isSilent: 0
+    silenceDuration: 1
+    comment: b. 177-187
+    sketch: {fileID: 2800000, guid: df4ed179f220a16428c4733c0a960a4c, type: 3}
+    trackSections:
+    - trackSectionType: 0
+      mtMainIndex: 6
+      mtSecondaryIndex: 0
+    - trackSectionType: 0
+      mtMainIndex: 9
+      mtSecondaryIndex: 0
+  - isSilent: 1
+    silenceDuration: 6
+    comment: 
+    sketch: {fileID: 0}
+    trackSections:
+    - trackSectionType: 0
+      mtMainIndex: 0
+      mtSecondaryIndex: 0
+  - isSilent: 0
+    silenceDuration: 1
+    comment: b. 188-198
+    sketch: {fileID: 2800000, guid: 72c1ed910e8c35849bf6659d272cc6c2, type: 3}
+    trackSections:
+    - trackSectionType: 0
+      mtMainIndex: 12
+      mtSecondaryIndex: 0
+    - trackSectionType: 0
+      mtMainIndex: 5
+      mtSecondaryIndex: 0
+  - isSilent: 0
+    silenceDuration: 1
+    comment: b. 199-204
+    sketch: {fileID: 2800000, guid: e73dd15da6eb4564e91bd806033a7c8c, type: 3}
+    trackSections:
+    - trackSectionType: 0
+      mtMainIndex: 5
+      mtSecondaryIndex: 0
+  - isSilent: 0
+    silenceDuration: 1
+    comment: b. 205-207
+    sketch: {fileID: 2800000, guid: 28ef5158d0507564ea0fd086114a895d, type: 3}
+    trackSections:
+    - trackSectionType: 0
+      mtMainIndex: 13
+      mtSecondaryIndex: 0
+    - trackSectionType: 1
+      mtMainIndex: 13
+      mtSecondaryIndex: 7
+  - isSilent: 0
+    silenceDuration: 1
+    comment: b. 207-212
+    sketch: {fileID: 2800000, guid: db84b01b9bc357441b9a1ade405d037e, type: 3}
+    trackSections:
+    - trackSectionType: 0
+      mtMainIndex: 14
+      mtSecondaryIndex: 0
+  - isSilent: 1
+    silenceDuration: 10
+    comment: 
+    sketch: {fileID: 0}
+    trackSections:
+    - trackSectionType: 0
+      mtMainIndex: 0
+      mtSecondaryIndex: 0
+  - isSilent: 0
+    silenceDuration: 1
+    comment: b. 213-215
+    sketch: {fileID: 2800000, guid: c626632847c35ef4e8ed91bc553894c9, type: 3}
+    trackSections:
+    - trackSectionType: 0
+      mtMainIndex: 15
+      mtSecondaryIndex: 0

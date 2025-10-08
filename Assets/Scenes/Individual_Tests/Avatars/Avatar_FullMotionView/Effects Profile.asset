@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7fd9488000d3734a9e00ee676215985, type: 3}
+  m_Name: Effects Profile
+  m_EditorClassIdentifier: 
+  components:
+  - {fileID: 2435532312876177971}
+--- !u!114 &2435532312876177971
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 581817bd740893c4e8673baeefa763d3, type: 3}
+  m_Name: EightColor
+  m_EditorClassIdentifier: 
+  active: 1
+  m_AdvancedMode: 0
+  color1:
+    m_OverrideState: 0
+    m_Value: {r: 0, g: 0, b: 0, a: 0}
+    hdr: 0
+    showAlpha: 1
+    showEyeDropper: 1
+  color2:
+    m_OverrideState: 1
+    m_Value: {r: 0.6901961, g: 0.4431373, b: 0.3372549, a: 0}
+    hdr: 0
+    showAlpha: 1
+    showEyeDropper: 1
+  color3:
+    m_OverrideState: 1
+    m_Value: {r: 0.67058825, g: 0.30588236, b: 0.40784317, a: 0}
+    hdr: 0
+    showAlpha: 1
+    showEyeDropper: 1
+  color4:
+    m_OverrideState: 1
+    m_Value: {r: 0.3254902, g: 0.21568629, b: 0.27058825, a: 0}
+    hdr: 0
+    showAlpha: 1
+    showEyeDropper: 1
+  color5:
+    m_OverrideState: 1
+    m_Value: {r: 0.6156863, g: 0.5686275, b: 0.4431373, a: 0}
+    hdr: 0
+    showAlpha: 1
+    showEyeDropper: 1
+  color6:
+    m_OverrideState: 1
+    m_Value: {r: 0.5849056, g: 0.46034408, b: 0.36142755, a: 0}
+    hdr: 0
+    showAlpha: 1
+    showEyeDropper: 1
+  color7:
+    m_OverrideState: 0
+    m_Value: {r: 0, g: 1, b: 1, a: 0}
+    hdr: 0
+    showAlpha: 1
+    showEyeDropper: 1
+  color8:
+    m_OverrideState: 0
+    m_Value: {r: 1, g: 1, b: 1, a: 0}
+    hdr: 0
+    showAlpha: 1
+    showEyeDropper: 1
+  dithering:
+    m_OverrideState: 1
+    m_Value: 0.146
+    min: 0
+    max: 0.5
+  downsampling:
+    m_OverrideState: 1
+    m_Value: 3
+    min: 1
+    max: 32
+  opacity:
+    m_OverrideState: 1
+    m_Value: 0.971
+    min: 0
+    max: 1
